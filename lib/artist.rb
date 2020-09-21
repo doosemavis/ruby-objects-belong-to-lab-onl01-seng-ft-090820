@@ -1,10 +1,9 @@
-
-  def initialize(name)
-    @name = name
-  end 
+class Artist
+end 
 
 
 beyonce = Artist.new("Beyonce")
+beyonce.artist.name
 
 
 
