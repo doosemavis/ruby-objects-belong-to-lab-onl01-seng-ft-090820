@@ -9,5 +9,5 @@ end
 
 beyonce = Artist.new("Beyonce")
 
-beyonce.Artist.name
+Artist.name
 
