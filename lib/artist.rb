@@ -2,7 +2,7 @@ class Artist
 end 
 
 
-artist.new.name
+Artist.new.name
 
 
 
